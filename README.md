@@ -2,7 +2,9 @@
 
 Adaptive micro-learning drills for India's frontline health workers: ASHAs, ANMs and nursing students.
 
-**Live app:** https://arogyadrill.netlify.app
+**Live app (latest, offline-capable):** https://akshaywagh1998.github.io/arogyadrill/
+
+Original demo: https://arogyadrill.netlify.app (older build, Hindi partial)
 
 ## Problem
 
