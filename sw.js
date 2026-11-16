@@ -1,5 +1,5 @@
 // ArogyaDrill offline cache: after the first visit the app opens with no network.
-const CACHE = "arogyadrill-v2";
+const CACHE = "arogyadrill-v3";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon.svg"];
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)).then(() => self.skipWaiting()));
